@@ -1,4 +1,4 @@
- 	body {background-color: black}
+ 	body {background-color: rgb(44,53,69);}
  		#wrapper {width: 1200px;
  			margin: 0 auto;}
 
@@ -7,13 +7,14 @@
  			background-repeat: no-repeat;
  			background-position: center;}
 
- 		nav {background-color: black;
+ 		nav {background-color: rgb(30,104,114);
  			text-align: center;
  			padding: 5px;
  			margin: 0px;
- 			width: 800px;
- 			margin-left: 200px;
+ 			width: 700px;
+ 			margin-left: 250px;
  			font-size: 19px;
+ 			border-radius: 20px;
  			color: white;}
 
 		#introduccion {text-align: center;
@@ -21,7 +22,7 @@
 			margin-top: -20px;
 			font-weight: bold;}
 
- 		section  {height:  820px;
+ 		section  {height:  620px;
  			background-color: white;
  			width: 720px;
  			padding: 50px;
@@ -29,89 +30,20 @@
  			margin-left: 200px;
  			margin-right: 400px;
  			text-align: justify;
- 			font-size: 20px;}
+ 			font-size: 20px;
+ 			border-radius: 10px;}
 
- 		#fotoJava {padding: 50px;
- 			height: 200px;}
+ 		#fotoJava {height: 100px;
+ 			padding-left: 300px;}
 
- 			#seccionPogona {height:  1000px;
- 			background-color: rgb(222,222,230);
- 			width: 720px;
- 			padding: 50px;
- 			padding-left: 41px;
- 			margin-left: 200px;
- 			margin-right: 400px;
- 			text-align: justify;
- 			font-size: 20px;}
-
- 		#seccionPardalis {height:  1800px;
- 			background-color: rgb(222,222,230);
- 			width: 720px;
- 			padding: 50px;
- 			padding-left: 41px;
- 			margin-left: 200px;
- 			margin-right: 400px;
- 			text-align: justify;
- 			font-size: 20px;}
-
- 		#seccionContacto {height: 500px;
- 			background-color: rgb(222,222,230);
- 			width: 720px;
- 			padding: 50px;
- 			padding-left: 41px;
- 			margin-left: 200px;
- 			margin-right: 400px;
- 			text-align: justify;
- 			font-size: 20px;}
-
- 			#seccionInformacion {height: 300px;
- 			background-color: rgb(222,222,230);
- 			width: 720px;
- 			padding: 50px;
- 			padding-left: 41px;
- 			margin-left: 200px;
- 			margin-right: 400px;
- 			text-align: justify;
- 			font-size: 20px;}
-
- 			#fotoInfo {margin-left: 255px;}
-
- 		section strong {color: rgb(105,105,105);}
- 		li {list-style-image: url("imagenes/iconolista.jpg");}
-
- 		#eublefoto {float: right;
- 			margin: 5px;
- 			margin-top: -34px;}
- 		#Fpardalisfoto {float: left;
- 			margin: 10px;
- 			margin-bottom: -1px;
- 			margin-left: -1px}
- 		#margenParrafoPardalis {padding: 50px;}
- 		#pogonaFoto {float: right;
- 			margin: 10px;
- 			margin-top: 1px;}
- 		li {font-weight: bold;}
-
- 		#fotoEnMedio {margin-left: 200px;}
-
- 		#videoEnMedio {margin-left: 90px;}
-
- 		 #titulo {text-align: center;
- 		 margin-top: -15px;
- 		 font-size: 30px;
- 		 font-weight: bold;}
-
- 		 #subTitulo {text-align: center;
- 		 margin-top: -15px;
- 		 font-size: 20px;
- 		 font-weight: bold;}
  		
  		footer {height: 25px;
- 			margin-left: 200px;
- 			margin-right: 190px;
+ 			width: 400px;
+ 			margin-left: 400px;
  			padding: 20px;
  			padding-bottom: -23px;
- 			background-color: black;
+ 			background-color: rgb(30,104,114);
+ 			border-radius: 20px;
  			text-align: center;
  			color: white;}
 
