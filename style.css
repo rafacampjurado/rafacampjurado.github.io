@@ -1,6 +1,7 @@
  	body {background-color: rgb(44,53,69);}
  		#wrapper {width: 1200px;
- 			margin: 0 auto;}
+ 			margin: 0 auto;
+ 		font-family: 'Raleway', sans-serif;}
 
  		header {height: 334px;
  			background-image: url("imagenes/foto1.jpg");
@@ -32,6 +33,8 @@
  			text-align: justify;
  			font-size: 20px;
  			border-radius: 10px;}
+ 		#octoCat {padding-left:  400px;
+ 			padding-top: -40px;}
 
  		#fotoJava {height: 100px;
  			padding-left: 300px;}
